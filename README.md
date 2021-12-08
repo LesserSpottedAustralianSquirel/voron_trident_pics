@@ -3,7 +3,11 @@ Hi!
 
 Support file for Voron trident 1.9 as described at https://vorondesign.com/voron_trident
 
-2 files listed below with description
+3 files listed below with description
+
+0) Voron_1.9_trident_3dprinting_guide.pdf
+- List of 3d printed parts to print, in order they are mensioned in offical instructions
+(You probably want this file as all the rest are support files)
 
 1) trident_stl_pics.zip 
 - List of stl small picture files. in the original directory structure
