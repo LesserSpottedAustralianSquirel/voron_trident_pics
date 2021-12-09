@@ -3,7 +3,7 @@ Hi!
 
 Support file for Voron trident 1.9 as described at https://vorondesign.com/voron_trident
 
-3 files listed below with description
+4 files listed below with description
 
 0) Voron_1.9_trident_3dprinting_guide.pdf
 - List of 3d printed parts to print, in order they are mensioned in offical instructions
@@ -17,6 +17,9 @@ Support file for Voron trident 1.9 as described at https://vorondesign.com/voron
 2) stl_parts_list.txt   
 - text list of all stls in their directory structure
 - Just the output of find . > stl_parts_list.txt 
+
+3) Voron_1.9_trident_3dprinting_guide.odt
+- Libre office source for pdf
 
 Thats it
 
